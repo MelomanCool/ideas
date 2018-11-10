@@ -1,1 +1,1 @@
-# ideas
+# Ideas for software projects
